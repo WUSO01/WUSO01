@@ -1,20 +1,16 @@
 ## About me
 
-一枚普普通通的前端er, 会一些 `Web-Components`、`React`，正在做一个开源项目[BelleUI](https://github.com/belleui/belleui)
+> 一枚普普通通的前端er， 会一些 `Web-Components`、`React`。正在做一个开源项目[BelleUI](https://github.com/belleui/belleui)
 
--------------
-
-Front-End Developer, Write some `Web-Components`, `React`, My open source project [BelleUI](https://github.com/belleui/belleui)
+> Front-End Developer, Write some `Web-Components`, `React`. My open source project [BelleUI](https://github.com/belleui/belleui)
 
 ## Workflow
 
 MacOS + neovim + tmux
 
-[neovim 配置文件](https://github.com/WUSO01/neovim)
+> [neovim 配置文件](https://github.com/WUSO01/neovim)
 
--------------
-
-[neovim config](https://github.com/WUSO01/neovim)
+> [neovim config](https://github.com/WUSO01/neovim)
 
 ## Utils
 

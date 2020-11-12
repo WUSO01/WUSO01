@@ -1,6 +1,25 @@
+## About me
 
-  - [Utils ( 11-06 · 0颗稻谷)](https://yuque.com/wuso01/chaos/sv8bz0)
-  - [Options请求 ( 11-05 · 0颗稻谷)](https://yuque.com/wuso01/chaos/tgasah)
-  - [记一次Koa中处理I18n ( 11-05 · 0颗稻谷)](https://yuque.com/wuso01/chaos/ypfiza)
-  - [Mongoose CURD ( 11-03 · 0颗稻谷)](https://yuque.com/wuso01/chaos/mykq1u)
-  - [国际化处理 ( 11-03 · 0颗稻谷)](https://yuque.com/wuso01/chaos/zv0a42)
+一枚普普通通的前端er, 会一些 `Web-Components`、`React`，正在做一个开源项目[BelleUI](https://github.com/belleui/belleui)
+
+-------------
+
+Front-End Developer, Write some `Web-Components`, `React`, My open source project [BelleUI](https://github.com/belleui/belleui)
+
+## Workflow
+
+MacOS + neovim + tmux
+
+[neovim 配置文件](https://github.com/WUSO01/neovim)
+
+-------------
+
+[neovim config](https://github.com/WUSO01/neovim)
+
+## Utils
+
+* [NeoVim](https://neovim.io/)
+* [Tmux](https://github.com/tmux/tmux/wiki)
+* [Raycast](https://raycast.com/)
+* [Proxyman](https://proxyman.io/)
+* [Notion](https://www.notion.so/)

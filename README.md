@@ -6,7 +6,7 @@
 
 ## Workflow
 
-MacOS + neovim + tmux
+MacOS + ITerm2 + neovim + tmux
 
 > [neovim 配置文件](https://github.com/WUSO01/neovim)
 
@@ -14,6 +14,7 @@ MacOS + neovim + tmux
 
 ## Utils
 
+* [ITerm2](https://www.iterm2.com/)
 * [NeoVim](https://neovim.io/)
 * [Tmux](https://github.com/tmux/tmux/wiki)
 * [Raycast](https://raycast.com/)
